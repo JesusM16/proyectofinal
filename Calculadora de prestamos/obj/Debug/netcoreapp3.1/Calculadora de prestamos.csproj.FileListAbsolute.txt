@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Calculadora de prestamos\bin\Debug\netcoreapp3.1\Calculadora de prestamos.exe
+C:\Users\sande\source\repos\Calculadora de prestamos\bin\Debug\netcoreapp3.1\Calculadora de prestamos.deps.json
+C:\Users\sande\source\repos\Calculadora de prestamos\bin\Debug\netcoreapp3.1\Calculadora de prestamos.runtimeconfig.json
+C:\Users\sande\source\repos\Calculadora de prestamos\bin\Debug\netcoreapp3.1\Calculadora de prestamos.runtimeconfig.dev.json
+C:\Users\sande\source\repos\Calculadora de prestamos\bin\Debug\netcoreapp3.1\Calculadora de prestamos.dll
+C:\Users\sande\source\repos\Calculadora de prestamos\bin\Debug\netcoreapp3.1\Calculadora de prestamos.pdb
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora de prestamos.csprojAssemblyReference.cache
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora_de_prestamos.Form1.resources
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora de prestamos.csproj.GenerateResource.cache
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora de prestamos.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora de prestamos.AssemblyInfo.cs
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora de prestamos.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora de prestamos.dll
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora de prestamos.pdb
+C:\Users\sande\source\repos\Calculadora de prestamos\obj\Debug\netcoreapp3.1\Calculadora de prestamos.genruntimeconfig.cache

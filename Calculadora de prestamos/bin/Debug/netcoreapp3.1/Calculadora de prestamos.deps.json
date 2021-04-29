@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculadora de prestamos/1.0.0": {
+        "runtime": {
+          "Calculadora de prestamos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora de prestamos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
